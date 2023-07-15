@@ -1,1 +1,4 @@
+baseURL = 'http://gebken.io/'
+languageCode = 'en-us'
+title = 'Gebken Global'
 theme = 'congo'

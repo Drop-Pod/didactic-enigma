@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gebken Global</title>
+    <link>http://gebken.io/</link>
+    <description>Recent content on Gebken Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2023 15:55:15 -0400</lastBuildDate><atom:link href="http://gebken.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sparks</title>
+      <link>http://gebken.io/posts/sparks/</link>
+      <pubDate>Sat, 15 Jul 2023 15:55:15 -0400</pubDate>
+      
+      <guid>http://gebken.io/posts/sparks/</guid>
+      <description>Glimpses of the Future #Sometimes we experience moments in which we pierce the veil of our current reality and we can suddenly see a potential future path. I had one of those moments but admit that imagining the future is extremely challenging. Every potential future exists at odds with all other possible paths. When we choose a future, we are destroying numerous other potential paths and the more we focus on a long term goal, the more closed off we become to other increasingly divergent paths which could be a potential.</description>
+    </item>
+    
+  </channel>
+</rss>
