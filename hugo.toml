@@ -1,4 +1,6 @@
 baseURL = 'http://gebken.io/'
 languageCode = 'en-us'
 title = 'Gebken Global'
+
+paginate = "10" # Number of elements per page in pagination
 theme = 'congo'

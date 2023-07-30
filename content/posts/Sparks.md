@@ -14,7 +14,11 @@ While it feels like a slightly pretentious name, I am striving to establish Gebk
 
 >“I swear by my life and my love of it that I will never live for the sake of another person, nor ask another person to live for mine.”
 
-I promise an in-depth analysis in a future post, but the short version is that Ayn Rand saw the government as an evil force but people are the true problem. I am an anti-capitalist and see the concept of working for someone and helping them make millions exactly the same type of exploitation that she was ranting against.
+I believe intensely in the importance of independence and the ability to shape our own destiny. Humans also naturally seek to live in communities but our modern society applies pressure against what is natural in order to maximize profit. I often fantasize about just building a small shack in the woods and leaving everything behind but don’t believe this is the answer because while I love solitude, too much of anything isn’t healthy. Instead, I think it is possible to clearly communicate covenants, build an intentional community, and establish a clan of amazing humans.
+
+There will be homework assignments!
+
+*~ Bennett*
 
 
 
