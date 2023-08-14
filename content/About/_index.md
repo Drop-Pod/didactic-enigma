@@ -7,9 +7,8 @@ description: "Strategically investing in a brighter future"
 Vision of the future
 {{< /lead >}}
 
-General Partner: [Bennett Gebken](/about/bennett)
-
-Limited Partners: Multiple
+General Partner: [Bennett Gebken](/about/bennett)  
+Limited Partners: Multiple  
 
 These articles will outline the philosophy, structure, and strategy behind the syndicate. It is hard to explain exactly how we operate on a tactical level without significant amounts of context.
 
