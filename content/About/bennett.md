@@ -6,7 +6,10 @@ draft: false
 
 ## Confidently blazing a trail
 
-I plan to update this with a detailed biography but the quick summary is as follows:
+> You can’t make decisions based on fear and the possibility of what might happen. 
+– Michelle Obama  
+  
+I plan to update this soon with a detailed biography but the quick summary is as follows:
 
 1. Very successful public sector career, currently a supervisor for the [White House Presidential Innovation Fellowship Program](https://presidentialinnovationfellows.gov/) and deeply believe
 in the value of public service and improving the government to equitably serve everyone. I am proud of my work in the public sector but all views on this website are my own,
@@ -25,8 +28,7 @@ Interested in advisors, board members, co-founders, and future employees.
 If you are interested in any of these email me ( my name at the domain)
 
 
-> You can’t make decisions based on fear and the possibility of what might happen. 
-– Michelle Obama
+
 
 
 
