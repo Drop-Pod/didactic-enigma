@@ -1,6 +1,6 @@
-baseURL = 'http://gebken.io/'
+baseURL = 'http://drop-pod.io/'
 languageCode = 'en-us'
-title = 'Gebken Global'
+title = 'Drop Pod'
 
 paginate = "10" # Number of elements per page in pagination
 theme = 'congo'

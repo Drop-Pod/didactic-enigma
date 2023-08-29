@@ -18,8 +18,8 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  # logo = "assets/img/logo.jpg"
-  # logoDark = "img/dark-logo.jpg"
+  logo = "assets/img/dark-logo.jpg"
+  logoDark = "assets/dark-logo.jpg"
   showTitle = true
 
 [footer]

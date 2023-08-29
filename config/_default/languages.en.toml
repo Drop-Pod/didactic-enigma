@@ -2,8 +2,8 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 
-title = "Gebken Global"
-copyright = "&copy; 2023 Gebken Global LC"
+title = "Drop Pod"
+copyright = "&copy; 2023 Drop Pod Limited"
 
 [params]
   isoCode = "en"
@@ -13,10 +13,10 @@ copyright = "&copy; 2023 Gebken Global LC"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  # description = "Boldly dropping into new enviroments"
 
 [author]
-  # name = "Gebken Global"
+  # name = "Drop Pod"
   # image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
