@@ -1,2 +1,2 @@
-# Gebken Global
-Comprehensively investing in a better future!
+# Drop Pod
+Innovating on capitalism
