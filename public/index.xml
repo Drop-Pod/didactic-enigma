@@ -1,20 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gebken Global</title>
-    <link>http://gebken.io/</link>
-    <description>Recent content on Gebken Global</description>
+    <title>Drop Pod Limited on Drop Pod</title>
+    <link>http://drop-pod.io/</link>
+    <description>Recent content in Drop Pod Limited on Drop Pod</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2023 Gebken Global LC</copyright>
-    <lastBuildDate>Sat, 15 Jul 2023 15:55:15 -0400</lastBuildDate><atom:link href="http://gebken.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2023 Drop Pod Limited</copyright>
+    <lastBuildDate>Sat, 15 Jul 2023 15:55:15 -0400</lastBuildDate><atom:link href="http://drop-pod.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sparks</title>
-      <link>http://gebken.io/posts/sparks/</link>
+      <link>http://drop-pod.io/posts/sparks/</link>
       <pubDate>Sat, 15 Jul 2023 15:55:15 -0400</pubDate>
       
-      <guid>http://gebken.io/posts/sparks/</guid>
+      <guid>http://drop-pod.io/posts/sparks/</guid>
       <description>Glimpses of the Future #Sometimes we experience moments in which we pierce the veil of our current reality and we can suddenly see a potential future path.</description>
+    </item>
+    
+    <item>
+      <title>Bennett Gebken</title>
+      <link>http://drop-pod.io/about/bennett/</link>
+      <pubDate>Tue, 04 Jul 2023 15:55:15 -0400</pubDate>
+      
+      <guid>http://drop-pod.io/about/bennett/</guid>
+      <description>Confidently blazing a trail #You can’t make decisions based on fear and the possibility of what might happen.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>http://drop-pod.io/services/</link>
+      <pubDate>Mon, 15 May 2023 22:11:39 -0400</pubDate>
+      
+      <guid>http://drop-pod.io/services/</guid>
+      <description>We focus on bringing rebellious and innovative solutions that are significantly different from normal cookie-cutter industry approaches.</description>
+    </item>
+    
+    <item>
+      <title>Enough</title>
+      <link>http://drop-pod.io/posts/enough/</link>
+      <pubDate>Tue, 09 May 2023 11:17:10 -0400</pubDate>
+      
+      <guid>http://drop-pod.io/posts/enough/</guid>
+      <description>According to data from the US Bureau of Economic Analysis (BEA) and the Bureau of Labor Statistics (BLS), corporate profits continue to set new records in comparison to pre-pandemic.</description>
+    </item>
+    
+    <item>
+      <title>New Beginnings</title>
+      <link>http://drop-pod.io/posts/launch/</link>
+      <pubDate>Sat, 01 May 2021 09:22:14 -0400</pubDate>
+      
+      <guid>http://drop-pod.io/posts/launch/</guid>
+      <description>Figuring out where to start is challenging.</description>
     </item>
     
   </channel>
