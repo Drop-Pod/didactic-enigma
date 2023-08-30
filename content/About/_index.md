@@ -1,18 +1,21 @@
 ---
-title: "Drop Pod"
+title: "About"
 description: "Strategically investing in a brighter future"
 ---
 
 {{< lead >}}
-Vision of the future
+Principles Over Profit
 {{< /lead >}}
 
 Founder: [Bennett Gebken](/about/bennett)  
-Co-Founder: TBD  
+Co-Founder(s): TBD  
 
-These articles will outline the philosophy, structure, and strategy behind the syndicate. It is hard to explain exactly how we operate on a tactical level without significant amounts of context.
+The firm is an SDVOSB and HUBZone small business focused on a non-exploitative worker's cooperative approach to delivering technology in the public sector (currently not engaged in the federal sector due to conflicts of interest). The goal is to limit growth and truly invest in people to make the world a better place.
+Currently interested in advisors, board members, co-founders, and future employees.
 
-If you are interested in the concepts and wish to discuss the possibility of joining, please email "bennett" or "corporate" at our domain (intentionally not spelling it out since the bots spam it enough as is).
+These articles will outline the philosophy, structure, and key decisions in order to chart a new innovative course and ensure we have published stances and can be held accountable to our values.
+
+If you are interested in the concepts and wish to discuss the possibility of joining, please email us!
 
 
 
