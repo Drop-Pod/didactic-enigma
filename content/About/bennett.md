@@ -4,20 +4,20 @@ date: 2023-07-04T15:55:15-04:00
 draft: false
 ---
 
-## Confidently blazing a trail
+## Personal Biography
 
 > You can’t make decisions based on fear and the possibility of what might happen. 
-– Michelle Obama  
-  
-Here is how I spend most of my time and potential areas of engagement or partnership:
+– Michelle Obama
 
-1. Actively investing in stocks, equities, and real estate and always interested in new opportunities. My goal is to create ethical passive sources of income to reduce the risk of active ventures.
+Bennett grew up in the Pacific Northwest and enlisted in the Marine Corps. After serving in the infantry and doing two combat tours to Afghanistan, made a fairly difficult transition to civilian life. He then entered civil service and worked in various roles, most notably being appointed as a White House Presidential Innovation Fellow. Throughout his career, he repeatedly found ways to innovate and improve business processes and how tech is used to serve the American public. 
 
-2. Drop Pod Limited is my unique approach to professional services. It is a SDVOSB and HUBZone small business focused on a non-exploitative worker's cooperative approach to delivering technology in the public sector (currently not engaged in the federal sector due to conflicts of interest)
-Interested in advisors, board members, co-founders, and future employees.
-   
-3. Single and open to a variety of dynamics - if you are interested in dating or a platonic friendship, I have a detailed “Read Me” file which can be shared for further review and consideration.
+Key accomplishments include developing and implementing an artificial intelligence prototype, creating business intelligence solutions, legislation implementation, and implementing intelligent automation to improve benefits delivery. Bennett’s expertise is in artificial intelligence and other emerging technology combined with experience in federal acquisitions and has resulted in successfully delivering significant change within government agencies.Across all his projects, he estimates having saved the government at least $100 million dollars cumulatively
 
-If you are interested in any of these email me ( my name at the domain)
+Throughout his career, he has become increasingly concerned with social justice and his current working hypothesis is that large corporations pose the greatest threat to humanity's pursuit of happiness. To that end, he has devoted more and more of his time to trying to innovate on capitalism to improve the model and increase equity while retaining the core value of free markets.
+
+In his personal life, he made the unfortunate decision to get married at 22 but is thankful for his three incredible children and hopes to help them grow into wonderful adults. His hobbies include Hiking, Running, Philosophy, Poetry, Minimalism / Tiny Living, Music, Chess, Reading, Podcasts, Video games, Board games, History, Cooking
+Always looking for friends, business partners, advisors, board members, co-founders and just enjoy having conversations and meeting new people. 
+Please email me if you want to get in touch!
+
 
 
