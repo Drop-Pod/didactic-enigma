@@ -1,5 +1,5 @@
 ---
-title: "Bennett Gebken"
+title: "Bio - Bennett Gebken"
 date: 2023-07-04T15:55:15-04:00
 draft: false
 ---
