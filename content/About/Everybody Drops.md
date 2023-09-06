@@ -1,10 +1,10 @@
 ---
-title: "Bennett Gebken"
+title: "Everybody Drops"
 date: 2023-07-04T15:55:15-04:00
 draft: false
 ---
 
-## Everybody Drops.
+## "Everyone fights, no one quits"
 
 I thought for a while about what the first posts should be and had a few ideas which seemed worthwhile but decided that I needed to use these early posts to outline ideals around mission and culture. The goal of doing so is that people understand what they are getting into when they work with us but also so we can recruit and retain people who have similar core values and believe in the mission.
 
@@ -18,6 +18,7 @@ In the federal contracting space, this is especially critical because taxpayer�
 
 Set against this backdrop is our first key belief: **everybody drops**. This phrase is used to describe the concept in the book Starship Troopers by Robert Heinlein,
 >"in the Mobile Infantry, everybody drops and everybody fights.” 
+
 Our company will not have executives who are disconnected and don’t contribute to the mission and we will accomplish this by taking lessons learned from combat arms and companies who intentionally avoid high growth models. 
 
 When I was in the Infantry, there were plenty of additional duties that needed to be accomplished such as carrying a radio, cooking food, giving haircuts, etc. But people couldn’t be dedicated to all of them so they were spread around according to natural aptitudes so that they could accomplish the mission. In other scenarios, the military uses B-billets to rotate people from their real job - such as a machine gunner - and temporarily serve as a full time instructor to train others and create a new generation of skilled Marines. This ensures that the instructors are true subject matter experts but it also ensures that they get a break from an exhausting job.
