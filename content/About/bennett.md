@@ -15,10 +15,11 @@ Key accomplishments include developing and implementing an artificial intelligen
 
 Throughout his career, he has become increasingly concerned with social justice and his current working hypothesis is that large corporations pose the greatest threat to humanity's pursuit of happiness. To that end, he has devoted more and more of his time to trying to innovate on capitalism to improve the model and increase equity while retaining the core value of free markets.
 
-In his personal life, he made the unfortunate decision to get married at 22 but is thankful for his three incredible children and hopes to help them grow into wonderful adults. His hobbies include Hiking, Running, Philosophy, Poetry, Minimalism / Tiny Living, Music, Chess, Reading, Podcasts, Video games, Board games, History, Cooking
-Always looking for friends, business partners, advisors, board members, co-founders and just enjoy having conversations and meeting new people. 
+Hobbies include Hiking, Running, Philosophy, Poetry, Minimalism / Tiny Living, Music, Chess, Reading, Podcasts, Video games, Board games, History, Cooking
 
-Please email me if you want to get in touch!
+Always looking for friends, as well as business partners, advisors, board members, co-founders! 
+
+Please reach out if you want to get in touch!
 
 
 
