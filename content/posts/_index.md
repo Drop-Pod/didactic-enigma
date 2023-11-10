@@ -1,6 +1,6 @@
 ---
-title: "Chasing Fireflies"
-description: "Striving to capture thoughts and the nuances of the world around us"
+title: "Barbarians Chapter"
+description: "Striving to build a better future"
 ---
 
 Our unique model applies the principles of horizontal and vertical scaling as well as other principles from technology to the corporate infrastructure. Therefore, this is the founder's blog for the Barbarians Chapter. Each Chapter will have a leader with a unique vision and as long as they don't conflict with the organization-wide framework, they are completely free to unilaterally make decisions within their Chapter. This creates a highly distributed organizational structure, allowing organic growth with a strong supporting network.
