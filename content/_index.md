@@ -16,7 +16,7 @@ While admittedly there are thousands of companies who do similar work, most of t
 To this end, we are formed as a benefit corporation and use an egalitarian approach to organizing which also significantly reduces overhead costs, resulting in higher quality talent at very competitive rates. Our goal is to pioneer a highly disruptive approach which properly incentivizes the team to remain mission focused over time.
 
 Our model is extensible so we are interested in co-founders but also happy to keep people in the loop who might be interested in joining in the future. We seek to continue experimenting, optimizing, and evolving because 
-> “Once you stop learning, you start dying”.
+> Once you stop learning, you start dying
 
 
 
