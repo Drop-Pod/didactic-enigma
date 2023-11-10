@@ -26,11 +26,8 @@ Drop Pod is a boutique technology services firm focused on the public sector. In
 
 While admittedly there are thousands of companies who do similar work, our goal is to use a fundamentally different incentive structure which we believe will better support the government over the long term. Our goal is to help the government reduce reliance on external support and rebuild internal expertise and capacity so that it can work better for everyone.
 
-As a Benefit Corporation, we can do this even though it will reduce future profits and direct shareholder value because the firm is a tool for social good focused on the mission of delivering value in a sustainable manner.
+As a Benefit Corporation, we can do this even though it will reduce future profits and impact shareholder value because the firm is a tool for social good focused on the mission of delivering value in a sustainable manner.
 
-> 1. We must be the change we seek in the world.
-> 2. All business ought to be conducted as if people and place mattered.
-> 3. Through products, practices, and profits, businesses should aspire to do no harm and benefit all.
-> 4. To do so requires that we act with the understanding that we are each dependent upon another and thus responsible for each other and future generations.
+Every great organization has guiding principles but our unique horizontal and vertically scaling model means that we have broad guiding tenants that all chapters have agreed to, but each chapter is free to build in potentially contradictory directions based on their leader’s vision as long as there is alignment to the broader organizational framework.
 
-These types of ideals can often degrade into shiny marketing materials without tangible facts backing them up (for example, a corporation which claims to genuinely care about employees but also hires aggressively and then lays off 10% of staff). We will need to constantly look for those moments to prove that these words aren't hollow promises. It will be an ongoing cycle to establish and update mechanisms to prevent erosion of ideals and measures to hold the organization accountable over time.
+Many organizations have ideals that often degrade over time into shiny marketing materials without tangible facts backing them up (for example, a corporation which claims to genuinely care about employees but also hires aggressively and then lays off 10% of staff right before quarterly earnings to maximize profits). We will need to constantly look for those moments to prove that these words aren't hollow promises. It will be an ongoing cycle to establish and update mechanisms to prevent erosion of ideals and measures to hold the organization accountable over time.
