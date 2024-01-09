@@ -17,9 +17,6 @@ Throughout his career, he has become increasingly concerned with social justice 
 
 Hobbies include Hiking, Running, Philosophy, Poetry, Minimalism / Tiny Living, Music, Chess, Reading, Podcasts, Video games, Board games, History, Cooking
 
-Always looking for friends, as well as business partners, advisors, board members, co-founders! 
-
-Please reach out if you want to get in touch!
 
 
 
