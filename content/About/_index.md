@@ -7,8 +7,7 @@ description: "Strategically investing in a brighter future"
 Principles Over Profit
 {{< /lead >}}
 
-Founder: [Bennett Gebken](/about/bennett)  
-Co-Founder(s): TBD  
+Founders: [Bennett Gebken](/about/bennett)  
 
 The firm is an SDVOSB and HUBZone small business focused on ethically conducting business and delivering innovation. 
 The goal is to limit growth and truly invest in people to make the world a better place.
