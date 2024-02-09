@@ -18,7 +18,7 @@ This isn’t an organization for everyone - we recognize that many people’s va
 
 Each chapter is encouraged to differentiate from each other and exclude people based on lack of shared core values. The chapter should never compromise on values in order to include more people. As long as they are sustainable, they should hold firm to their values. For example, if you develop a hyper-specific set of membership requirements and only a few people on the planet are even eligible, as long as you can recruit enough of them to operate in a sustainable manner, it is a success.
 
-> Once you stop learning, you start dying
+"_Once you stop learning, you start dying_"
 
 
 
