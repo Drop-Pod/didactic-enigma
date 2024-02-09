@@ -4,7 +4,7 @@ date: 2019-10-12T15:55:15-04:00
 draft: false
 ---
 
-# "It is really all about the incentives"
+## "It is really all about the incentives"
 
 Data must be leveraged with caution by the government in order to ensure that citizens are not harmed by a lack of proper oversight. Many programs within the government are overwhelmed with applicants and are seeking to modernize by using more advanced technology at various steps within their process. Although the desire to increase organizational efficiency is laudable, there are risks regarding the use of algorithms to make decisions. As the government becomes more interconnected, there is an increasing risk that AI will be used as the final authority and people will lose control of the processes that they created. This would result in an increased risk of bad decisions that hurt the people that the government was created to serve.
 
