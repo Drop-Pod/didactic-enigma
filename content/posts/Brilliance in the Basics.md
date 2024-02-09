@@ -12,7 +12,7 @@ Recently I was listening to the podcast _How to be Awesome at your Job_ and a po
 
 This is an important lesson in the business world, even though the stakes are not as high. Organizations often stress comprehensive strategic goals but it is difficult to evaluate progress towards them. Focusing on evaluating the tactical level activities can be used to become a high performer in the little things. This is especially important in technology since there is always some a variety of shiny new toys which can distract leadership and promise to transform the organization overnight. Humbly focusing on the small daily wins may seem obvious but is difficult to accomplish. Consistently working on being brilliant in the basics is one important aspect of building an exceptional team.
 
-LtCol McCoy's article which is much more eloquent then mine can be read [here](/assets/Brilliance in the Basics_Original Article/ 'Brilliance in the Basscs and other expectations of combat leaders')
+LtCol McCoy's article which is much more eloquent then mine can be read [here](assets/Brilliance in the Basics_Original Article.pdf 'Brilliance in the Basscs and other expectations of combat leaders')
 
 > **“In any organization, it’s all about selecting the right team. The two qualities I was,taught to value most in selecting others for promotion or critical roles were initiative and aggressiveness.”**
 
