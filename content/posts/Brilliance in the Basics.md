@@ -1,6 +1,6 @@
 ---
-title: "Everybody Drops"
-date: 2023-07-04T15:55:15-04:00
+title: "Brilliance in the Basics"
+date: 2022-07-04T15:55:15-04:00
 draft: false
 ---
 
