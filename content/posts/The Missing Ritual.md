@@ -4,8 +4,6 @@ date: 2018-04-16T15:55:15-04:00
 draft: false
 ---
 
-## "Everyone fights, no one quits"
-
 Bottom Line Up Front: There is a large gap in the separation process from the military which makes adjusting to civilian life harder and puts Veterans at risk of not successfully adjusting to a new set of challenges.
 
 Rites of passage are a process that people undergo in order to transition from a state of being to a new one. A ritual usually consists of separation from the current identity, transitioning to the new one, and then incorporating the new identity.
