@@ -8,6 +8,6 @@ In modern life, we often see immense hubris by people and the rise of social med
 
 With so much noise, there seems to be a growing assumption that all the things people have to say are interesting and worth sharing with the world. I have had mixed feelings about social media ever since I joined Myspace and GeoCities but it always felt like I had to participate to avoid being left out. Going through a painful divorce and experiencing many personal attacks finally forced me to confront the fact that social media was having an increasingly negative effect on my life. I deleted all the apps from my phone, purged most of my content, and focused on avoiding it for now. 
 
-Longer term, I am working on creating a fediverse model that allows communities to easily self-host and build networks and hopefully I will be able to convince my friends to join me there but in the meantime, I am quite responsive to email and direct messages because I have eliminated the mindless scrolling in my life!
+Longer term, I am working on creating a fediverse model that allows communities to easily self-host and build networks and hopefully I will be able to convince my friends to join me there but in the meantime, I am quite responsive to email and SMS/signal because I have eliminated the mindless scrolling in my life!
 
 > “Hominem te esse memento. Memento mori." 
