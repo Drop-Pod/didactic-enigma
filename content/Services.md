@@ -17,5 +17,5 @@ Our team excels at developing innovative solutions leveraging emerging technolog
 
 ## Contact
 
-For further discussion, contact <Corporate@drop-pod.io>
+For further discussion, contact <Corporate@drop-pod.io> and include "Deep-Pebble" in the subject line, otherwise will probably be marked as spam.
 
