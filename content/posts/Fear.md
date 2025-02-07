@@ -3,6 +3,7 @@ title: "Fear is the Mind Killer"
 date: 2023-09-04T15:55:15-04:00
 draft: false
 ---
+Science fiction is incredibly helpful to giving us a different perspective and breaking out of entrenched thinking and assumptions about the bounds of what is possible and our acceptance of the system around us..
 
 In Dune, the litany is used as a mantra and one character even argues that it represents the core difference between humans and animals. The ability to face one’s fear and overcome it is what separates us from animals who seek self-preservation even if this short sighted focus results in their ultimate destruction. While admittedly Dune is a fantasy book not a treatise on philosophy, there are many valuable lessons which can be learned from fictional settings. The escape from our reality and exploring ideals in a different setting can open our minds up to the broader possibilities and help us to rethink deeply held beliefs and biases which are holding us back from reaching our full potential. 
 
